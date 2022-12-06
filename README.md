@@ -14,5 +14,5 @@ a back-end API, and front-end interfacing in a clone of AirBnB.
 The project currently only implements the back-end console.
 
 ## Authors:
-* Dr Marcus <[Marcus I](https://github.com/Dr-MarcusI)
-* Esther A<[Esther Adeyemi](https://github.com/esteri1)
+* Enyinnah Light C (https://github.com/Lighte22)
+* Yelbeneh Abayneh Assefa
